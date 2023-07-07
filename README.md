@@ -1,0 +1,1 @@
+Shell permission projecton alx
